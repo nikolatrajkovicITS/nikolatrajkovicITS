@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋, I'm Nikola Trajkovic
 
-<!--
-**nikolatrajkovicITS/nikolatrajkovicITS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 **Currently Learning:** 
+- T3 stack (Next.js, tRPC, TypeScript, Tailwind, Prisma)
 
-Here are some ideas to get you started:
+🔧 **Tech Stack I've Worked With:**
+- 🖥️ **Languages:** JavaScript, TypeScript
+- 🌐 **Frameworks:** React, Next.js
+- 🚀 **DevOps:** Docker, GitHub Actions
+- ☁️ **Google Cloud Platform:** Pub/Sub, Cloud Scheduler, Cloud Functions, Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Interests:**
+- 🌌 Diving deep into DevOps and GCP
+- 🔗 Exploring the realm of Web3
+- 🌍 Travelling to new horizons
+- ♟️ Strategizing my next chess move
