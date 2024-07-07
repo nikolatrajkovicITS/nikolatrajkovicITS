@@ -1,6 +1,6 @@
-### Hi 👋, I'm Nikola Trajkovic
 
-📚 **Currently Working On (in my free time):**
+
+**Currently Working On (in my free time):**
 
 - **Developing a Comprehensive DApp**:
   - Building an end-to-end solution that integrates smart contracts, frontend, and backend components.
@@ -12,6 +12,4 @@
 - **Smart Contract Development**:
   - Writing and optimizing smart contracts using Solidity and Hardhat.
   
-- **Frontend and Backend Integration**:
-  - Leveraging modern frameworks to build and optimize the frontend.
-  - Integrating backend services to support robust and scalable decentralized functionalities.
+
